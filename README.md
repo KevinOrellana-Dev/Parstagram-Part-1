@@ -23,11 +23,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-**Login**
+**Creating an Account**
 
 <img src='https://recordit.co/NKZP8zA2j1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-**Posting Image**
+**Posting an Image**
 
 <img src='https://recordit.co/dgOxI8b3Xj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
